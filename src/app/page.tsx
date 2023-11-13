@@ -66,7 +66,7 @@ export default function Home() {
   return (
     <>
       <section
-        className="bg-[url('../../public/defaultHeroImage.svg')] h-screen w-screen flex flex-col justify-center items-center"
+        className="bg-[url('../../public/defaultHeroImage.svg')] h-screen w-screen flex flex-col justify-center items-center bg-no-repeat bg-cover"
         // style={{
         //   backgroundImage: "url(../../public/defaultHeroImage.svg)",
         //   backgroundRepeat: "no-repeat",
